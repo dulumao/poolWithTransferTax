@@ -1,6 +1,4 @@
-# README
-
-## Implementation of a Liquidity Pool with a transfer tax
+# Implementation of a Liquidity Pool with a transfer tax
 
 This is an adaptation of the pool example made by Mysten Labs that can be found at https://github.com/MystenLabs/sui/blob/main/sui_programmability/examples/defi/sources/pool.move to include a transfer tax.
 
