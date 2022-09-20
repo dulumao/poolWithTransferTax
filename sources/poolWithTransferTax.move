@@ -420,7 +420,7 @@ module myDefi::poolWithTransferTax {
     }
 }
 
-/// Example implementation of a token that has a function to create a pool
+/// Example implementation of a token that uses the LP w/ Treasury transfer tax
 module myDefi::aenova {
     use myDefi::poolWithTransferTax;
     use sui::sui::SUI;
