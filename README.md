@@ -9,3 +9,7 @@ Cryptocurrencies that have a transfer tax are very common in a lot of EVM chains
 * The transfer tax sends the funds to a treasury object that is owned by the owner. 
 * Only the owner can withdraw funds from this object.
 * The transfer tax is set upon creation of the pool.
+
+## Note
+
+* Switch dependencies path according to your own local Sui folder directory.
